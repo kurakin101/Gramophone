@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="title_news">News</string>
+    <string name="title_album">Music Album</string>
+    <string name="title_now_playing">Translation</string>
+    <string name="title_musicians">Musicians</string>
+    <string name="title_tour">Tour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

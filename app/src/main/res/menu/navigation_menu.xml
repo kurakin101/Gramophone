@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/group_1"
+            android:title="Заголовок номер один"
+            >
+
+            <menu>
+                <group
+                    android:checkableBehavior="single"
+                    >
+
+                    <item
+                        android:icon="@drawable/file"
+                        android:title="Пункт номер один" />
+
+                    <item
+                        android:icon="@drawable/file"
+                        android:title="Пункт номер два" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>
